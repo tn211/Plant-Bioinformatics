@@ -6,7 +6,7 @@ In recent years, there has been a proliferation of bioinformatic
 databases, algorithms, and other tools that allow genomic studies to be
 carried out more quickly and cheaply than in previous decades. For this
 report, several of these resources were used to characterize the
-Arabidopsis thaliana gene At4g38090, which encodes for a ribosomal
+*Arabidopsis thaliana* gene At4g38090, which encodes for a ribosomal
 protein/S5 domain protein. This required collecting annotations
 regarding initial impressions, expression analysis, co-expression
 analysis, promoter analysis, and network analysis. Protein functionality
