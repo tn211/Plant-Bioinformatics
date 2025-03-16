@@ -180,7 +180,7 @@ Cistome and MEME Suite were used to identify motifs among the EA list
 and among the 7 genes in common between EA and ATTED-II<sup>22,25</sup>.
 For Cistome (**Figure 6**) using the crossover list, the highest score
 came from PRECONSCRHSP70A, which has been identified as a plastid
-response elements' (PRE) in HSP70A promoters isolated from
+response element (PRE) in HSP70A promoters isolated from
 *Chlamydomonas*<sup>26–28</sup>. It is thought to play a role in HSP70A
 induction from light and Mg-protoporphyrin IX. The second-highest score
 came from SURECOREATSULTR11, which forms the core of a sulfur-responsive
